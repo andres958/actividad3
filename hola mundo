@@ -1,0 +1,5 @@
+git add .
+git commit -m "Tu mensaje de commit aquí"
+git commit -m "Corrige error de validación en formulario de registro"
+git add .
+git commit -m "hola mundo"
